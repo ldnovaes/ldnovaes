@@ -9,7 +9,8 @@ When I'm not coding, you can find me either playing or expressing my love for my
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ldnovaes/)](https://www.linkedin.com/in/sy-rashid/)   [![Gmail Badge](https://img.shields.io/badge/leandroduarte2012@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandroduarte2012@hotmail.com)](mailto:leandroduarte2012@hotmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ldnovaes/)](https://www.linkedin.com/in/sy-rashid/)  [![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandroduarte2012@hotmail.com)](mailto:leandroduarte2012@hotmail.com)
+  <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </div>
 <br>
 
