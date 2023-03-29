@@ -53,9 +53,6 @@ When I'm not coding, you can find me either playing or expressing my love for my
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldnovaes&show_icons=true) | [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ldnovaes)](https://github.com/ldnovaes/github-readme-stats) |
+| ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldnovaes&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldnovaes&hide_progress=true)](https://github.com/ldnovaes/github-readme-stats) |
 
 
-
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ldnovaes.ldnovaes) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ldnovaes) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ldnovaes)
